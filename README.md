@@ -31,5 +31,6 @@ Currently, I'm delving into Neural Networks, exploring deep learning frameworks,
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-dadhich-63208123b)
 
-![Fun GIF](https://media.giphy.com/media/l41lMfA8qjPC9ByWg/giphy.gif)
+![Fun GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 
