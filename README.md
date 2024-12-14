@@ -1,4 +1,4 @@
-
+![Background Banner](https://imgur.com/a/U8zbYEQ)
 # Hi there, I'm Lakshya 👋
 Welcome to my GitHub profile!
 
