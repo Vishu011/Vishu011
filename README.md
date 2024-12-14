@@ -1,5 +1,3 @@
-![Profile Picture](https://link-to-your-picture.com)
-![Background Banner](https://link-to-your-banner.com)
 
 # Hi there, I'm Lakshya 👋
 Welcome to my GitHub profile!
@@ -13,7 +11,7 @@ I'm a passionate data scientist and AI enthusiast. I love solving complex proble
 
 ### Pinned Repositories
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-name&theme=radical)](https://github.com/your-username/project-name)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-name&theme=radical)](https://github.com/Vishu011/PlantPulse)
 
 ### Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,9 +27,7 @@ I'm a passionate data scientist and AI enthusiast. I love solving complex proble
 Currently, I'm delving into Neural Networks, exploring deep learning frameworks, and honing my skills in AI-driven technologies. 🚀
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lakshya-dadhich-63208123b)
 
 ![Fun GIF](https://media.giphy.com/media/l41lMfA8qjPC9ByWg/giphy.gif)
-![PRs merged](https://img.shields.io/badge/PRs%20merged-100-green)
-![Issues closed](https://img.shields.io/badge/Issues%20closed-50-blue)
+
