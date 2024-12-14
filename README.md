@@ -1,9 +1,12 @@
-![Background Banner](https://imgur.com/a/U8zbYEQ)
+
 # Hi there, I'm Lakshya 👋
 Welcome to my GitHub profile!
 
 ### About Me
 I'm a passionate data scientist and AI enthusiast. I love solving complex problems with code and exploring new technologies. 🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishu011&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishu011&layout=compact&theme=radical)
 
 ### Pinned Repositories
 
