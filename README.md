@@ -19,6 +19,11 @@ I'm a passionate data scientist and AI enthusiast. I love solving complex proble
 ![Computer Networks](https://img.shields.io/badge/-CN-00BFFF?style=flat&logo=network-wired)
 ![Database Management](https://img.shields.io/badge/-DBMS-FFD700?style=flat&logo=mysql&logoColor=black)
 ![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-8A2BE2?style=flat&logo=deep-learning)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00BFFF?style=flat&logo=machine-learning)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### Ongoing Learning
 Currently, I'm delving into Neural Networks, exploring deep learning frameworks, and honing my skills in AI-driven technologies. 🚀
