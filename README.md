@@ -7,7 +7,8 @@ I'm a passionate data scientist and AI enthusiast. I love solving complex proble
 
 ### Pinned Repositories
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-name&theme=radical)](https://github.com/Vishu011/PlantPulse)
+[![PlantPulse](https://github-readme-stats.vercel.app/api/pin/?username=Vishu011&repo=PlantPulse&theme=radical)](https://github.com/Vishu011/PlantPulse)
+
 
 ### Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
