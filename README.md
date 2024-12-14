@@ -2,10 +2,6 @@
 # Hi there, I'm Lakshya 👋
 Welcome to my GitHub profile!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
 ### About Me
 I'm a passionate data scientist and AI enthusiast. I love solving complex problems with code and exploring new technologies. 🚀
 
@@ -27,7 +23,7 @@ I'm a passionate data scientist and AI enthusiast. I love solving complex proble
 Currently, I'm delving into Neural Networks, exploring deep learning frameworks, and honing my skills in AI-driven technologies. 🚀
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lakshya-dadhich-63208123b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-dadhich-63208123b)
 
 ![Fun GIF](https://media.giphy.com/media/l41lMfA8qjPC9ByWg/giphy.gif)
 
