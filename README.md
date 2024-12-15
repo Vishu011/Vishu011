@@ -67,5 +67,5 @@ Let's collaborate and build something amazing! 🌟
 ---
 
 ## 🎉 **Fun Fact**  
-I believe coding is a mix of art and science. Also, coffee ☕ is my ultimate debugging tool.  
+I believe coding is a mix of art and science. Also, tea ☕ is my ultimate debugging tool.  
 ![Fun GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
