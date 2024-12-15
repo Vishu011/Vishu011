@@ -16,7 +16,6 @@ Feel free to dive into my repositories and explore my work!
 
 ## 📊 **GitHub Stats**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishu011&layout=compact&theme=radical)  
-![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishu011&show_icons=true&theme=radical)
 
 ---
 
