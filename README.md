@@ -1,7 +1,7 @@
 # Hi there, I'm **Lakshya** 👋  
 Welcome to my GitHub profile!  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangesh2704&label=Profile%20views&color=0e75b6&style=flat" alt="mangesh2704" /> </p>
-I’m a **passionate Data Scientist** and **AI Enthusiast** who thrives on solving complex problems and exploring cutting-edge technologies. 🚀  
+I’m a passionate Data Scientist and AI Enthusiast who thrives on solving complex problems and exploring cutting-edge technologies. 🚀  
 Feel free to dive into my repositories and explore my work!  
 
 ---
